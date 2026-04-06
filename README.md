@@ -195,11 +195,7 @@ python adaface_recognition.py
 - `students.npz` is generated locally and not uploaded.
 - For best accuracy, use **front-facing, well-lit photos** for training.
 
----
 
-## 👨‍💻 Author
-
-**Balaji** — [github.com/balaji2345](https://github.com/balaji2345)
 
 ---
 
@@ -209,12 +205,12 @@ This project is for educational purposes only.
 
 ## Output Screenshots
 
-![Recognition 1](assets/recognition.jpeg)
+![Recognition 1](Assets/recognition.jpeg)
 
-![Recognition 2](assets/recognition2.jpeg)
+![Recognition 2](Assets/recognition2.jpeg)
 
-![Recognition 3](assets/recognition3.jpeg)
+![Recognition 3](Assets/recognition3.jpeg)
 
-![Recognition 4](assets/recognition4.jpeg)
+![Recognition 4](Assets/recognition4.jpeg)
 
-![Recognition 5](assets/recognition5.jpeg)
+![Recognition 5](Assets/recognition5.jpeg)
